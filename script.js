@@ -528,7 +528,7 @@ function rand(max) {
     };
   
     finishSprite = new Image();
-    finishSprite.src = "./13.png"+
+    finishSprite.src = "./13 (2).png"+
     "?" +
     new Date().getTime();
     finishSprite.setAttribute("crossOrigin", " ");
